@@ -3,7 +3,7 @@
 CS student @ UTM | Network & Security | She/Her
 
 Currently figuring out cybersecurity — one rabbit hole at a time.
-Also building SoulHaven, a peer support platform for my FYP. It's not done. Neither am I.
+Also building SoulHaven, a web-based support platform for my FYP. It's not done. Neither am I.
 
 ---
 
