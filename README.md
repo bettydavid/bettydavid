@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Beatrice (Bea) 👋
 
-<!--
-**bettydavid/bettydavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student @ UTM | Network & Security | She/Her
 
-Here are some ideas to get you started:
+Currently figuring out cybersecurity — one rabbit hole at a time.
+Also building SoulHaven, a peer support platform for my FYP. It's not done. Neither am I.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies I've touched
+- Python • Linux • Wireshark • Cisco Packet Tracer • Cryptography • Subnetting
+
+## 🌱 Currently learning
+- Cybersecurity fundamentals (TryHackMe)
+- Networking & Security concepts
+
+## 📫 Find me
+- LinkedIn: [Beatrice Ann David](https://linkedin.com/in/beatrice-ann-david-445809296)
+
+---
+
+*"Lost in cybersecurity · questioning everything · you're coming with me too."*
